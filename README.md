@@ -23,7 +23,7 @@ Cara menjalankan :
 7. Masukkan lebar persegi panjang, lalu enter.
 
 # latihan3_konversi_suhu.py
--> Program untuk mengonversi suhu dari satu satuan ke satuan lainnya.
+-> Program untuk mengonversi Celsius ke Fahrenheit dan Kelvin.
 Cara menjalankan :
 1. Buka folder ddp-python.
 2. Pilih file latihan 3.
@@ -33,7 +33,7 @@ Cara menjalankan :
 6. Masukkan suhu Celsius, lalu enter.
 
 # latihan4_total_belanja.py
--> Program untuk menghitung total belanja berdasarkan harga dan jumlah barang.
+-> Program untuk menghitung total belanja dengan PPN 11%.
 Cara menjalankan : 
 1. Buka folder ddp-python.
 2. Pilih file latihan 4.
