@@ -12,9 +12,6 @@ else :
     print("Huruf D, TIDAK LULUS")
 
 
-#TRACE TABLE
-
-
 # TRACE TABLE
 # -------------------------------------------------------------------
 # | Nilai | < 0 atau > 100 | >= 80 | >= 70 | >= 60 |    Hasil       |
@@ -24,5 +21,6 @@ else :
 # | 60    | False          | False | False | True  | C, LULUS       |
 # | 59    | False          | False | False | False | D, TIDAK LULUS |
 # | 105   | True           | -     | -     | -     | Tidak valid    |
+# -------------------------------------------------------------------
 
 
