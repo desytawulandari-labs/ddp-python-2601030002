@@ -7,9 +7,9 @@ Kelas : SIA Pagi 1
 2. latihan2_persegi_panjang.py : menghitung luas dan keliling persegi panjang.
 3. latihan3_konversi_suhu.py : mengonversi Celsius ke Fahrenheit dan Kelvin.
 4. latihan4_total_belanja.py : menghitung total belanja dengan PPN 11%.
+5. latihan5_ganjil_genap.py : menentukan bilangan ganjil atau genap.
+6. latihan6_nilai_huruf.py : mengubah nilai angka menjadi nilai huruf dan status kelulusan.
+7. latihan7_tarif_parkir.py : menghitung biaya parkir berdasarkan durasi dan status langganan. 
 
 ## Cara menjalankan : 
 python latihan1_biodata.py
-python latihan2_persegi_panjang.py
-python latihan3_konverensi_suhu.py
-python latihan4_total_belanja.py
