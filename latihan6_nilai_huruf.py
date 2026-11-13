@@ -16,11 +16,11 @@ else :
 # -------------------------------------------------------------------
 # | Nilai | < 0 atau > 100 | >= 80 | >= 70 | >= 60 |    Hasil       |
 # |-------|----------------|-------|-------|-------|----------------|
-# | 80    | False          | True  | -     | -     | A, LULUS       |
-# | 79    | False          | False | True  | -     | B, LULUS       |
-# | 60    | False          | False | False | True  | C, LULUS       |
-# | 59    | False          | False | False | False | D, TIDAK LULUS |
-# | 105   | True           | -     | -     | -     | Tidak valid    |
+# |  80   |     False      | True  | -     | -     | A, LULUS       |
+# |  79   |     False      | False | True  | -     | B, LULUS       |
+# |  60   |     False      | False | False | True  | C, LULUS       |
+# |  59   |     False      | False | False | False | D, TIDAK LULUS |
+# |  105  |     True       | -     | -     | -     | Tidak valid    |
 # -------------------------------------------------------------------
 
 
